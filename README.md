@@ -12,5 +12,3 @@ Before the workshop, please complete the following:
 2. Clone this repo to your machine: `git clone https://github.com/semaphoreP/codeastro.git`.
 
 3. Do the [diagnostic assignment](https://github.com/semaphoreP/codeastro/blob/master/Day0/diagnostic.ipynb) to get familiarized with some Python fundamentals. 
-
-dummy change
